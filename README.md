@@ -1,1 +1,2 @@
-# Quiz App made with Kotlin and Android Studio for Mobile Programming course
+# Quiz Application
+ Made with Kotlin in Android Studio for Mobile Programming course
